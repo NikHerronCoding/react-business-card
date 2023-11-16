@@ -6,8 +6,6 @@ import Main from "./components/Main"
 import Footer from "./components/Footer"
 
 //assets and css
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './css/App.css'
 
 function App() {
