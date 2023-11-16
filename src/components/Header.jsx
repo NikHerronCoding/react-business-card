@@ -16,7 +16,7 @@ export default function Header() {
             </a>
            
             <div className="button-container">
-                <button id="email-button"><img id="email-logo"src={emailLogo}/> Email </button>
+               <a href="mailto:herronnikolas@gmail.com"><button id="email-button"><img id="email-logo"src={emailLogo}/> Email </button> </a>
                 <a href="https://www.linkedin.com/in/nikolas-herron/"><button id="linkedin-button"> <img id="linkedin-logo" src={linkedinLogo}/>LinkedIn </button> </a>
             </div>
 
